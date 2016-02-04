@@ -1,2 +1,2 @@
-#UQ Ezproxy Helper
-Simplify your ez life
+#Ezproxy Helper
+Simplify the way you work with EZProxy.
