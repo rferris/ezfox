@@ -1,0 +1,15 @@
+{
+  "title": "Ezproxy Helper",
+  "name": "ezfox",
+  "version": "0.0.2",
+  "description": "Simplify accessing EZProxy content.",
+  "main": "index.js",
+  "author": "rferris",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
